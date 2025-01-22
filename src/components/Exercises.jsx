@@ -8,14 +8,8 @@ import ExerciseCard from "./ExerciseCard";
 const Exercises = ({ exercises, setexercise, bodyPart }) => {
   // console.log({exercises});
   const [currentPage, setcurrentPage] = useState(1);
-  const exerPerPage = 12;
+  const exerPerPage = 9;
 
-  // const indexOfLastExercise = currentPage * exerPerPage; // e.g., 6, 12, etc.
-  // const indexOfFirstExercise = indexOfLastExercise - exerPerPage; // e.g., 0, 6, etc.
-  // const currentExercises = exercises.slice(
-  //   indexOfFirstExercise,
-  //   indexOfLastExercise
-  // );
 
   const indexOfLastExercise = currentPage * exerPerPage;
   const indexOfFirstExercise = indexOfLastExercise - exerPerPage;
