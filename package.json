@@ -19,7 +19,8 @@
     "react-dom": "^18.3.1",
     "react-horizontal-scrolling-menu": "^8.2.0",
     "react-loader-spinner": "^6.1.6",
-    "react-router-dom": "^7.1.1"
+    "react-router-dom": "^7.1.1",
+    "rollup": "^4.31.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
