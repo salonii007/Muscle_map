@@ -35,7 +35,7 @@ const Horizontalscroll = ({ data, bodyPart, setBodyPart, isbodyPart }) => {
       <Box
         position="absolute"
         top="50%"
-        right="20px" // Adjust for desired spacing from the right edge
+        right="21px" 
         transform="translateY(-50%)"
         zIndex={1}
       >
