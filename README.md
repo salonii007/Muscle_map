@@ -2,7 +2,10 @@
 
 [🌐 Live Demo](https://muscle-map-saloni.vercel.app/)
 
-MUSCLE MAP is a modern, responsive fitness web application built using React.js, Material UI, and the ExerciseDB REST API. It allows users to explore over 1000+ exercises categorized by body parts, muscle groups, and equipment, complete with illustrations and detailed descriptions. With integrated YouTube API support, users can watch demonstration videos and discover similar exercise recommendations, making Muscle Map a complete and interactive fitness companion that helps users stay informed, engaged, and consistent in their fitness journey.
+<p style="font-size:16px;">
+MUSCLE MAP is a responsive fitness web app built with React.js, Material UI, and the ExerciseDB API. It allows users to explore 1000+ exercises by body parts, muscles, or equipment, with visuals and YouTube-integrated demo videos — making fitness learning engaging and practical.
+</p>
+
 ---
 
 ## 🚀 Key Features
@@ -24,13 +27,10 @@ MUSCLE MAP is a modern, responsive fitness web application built using React.js,
 
 ---
 
-
-
----
-
 ## 🌐 Live Link
 
 [🔗 https://muscle-map-saloni.vercel.app/](https://muscle-map-saloni.vercel.app/)
 
 ---
+
 Made by me <3!
