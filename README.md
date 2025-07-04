@@ -1,8 +1,36 @@
-# React + Vite
+# 💪 MUSCLE MAP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[🌐 Live Demo](https://muscle-map-saloni.vercel.app/)
 
-Currently, two official plugins are available:
+MUSCLE MAP is a modern, responsive fitness web application built using React.js, Material UI, and the ExerciseDB REST API. It allows users to explore over 1000+ exercises categorized by body parts, muscle groups, and equipment, complete with illustrations and detailed descriptions. With integrated YouTube API support, users can watch demonstration videos and discover similar exercise recommendations, making Muscle Map a complete and interactive fitness companion that helps users stay informed, engaged, and consistent in their fitness journey.
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Key Features
+
+- 📚 Explore exercises by **body parts**, **targeted muscles**, or **equipment**
+- 🧠 Displays **detailed info** including animated exercise illustrations
+- 📺 **Integrated YouTube API** to show real-time videos and recommendations
+- 🔁 Suggests **similar exercises** based on muscle group and equipment
+- 📱 Fully **responsive UI** using Material UI
+- 📌 Pagination support for smooth navigation
+
+---
+
+## 🧑‍💻 Technology Stack
+
+**Frontend:** React.js, Material UI  
+**APIs:** ExerciseDB API, YouTube API  
+**Other:** Axios, React Router, RapidAPI, Flex Layout
+
+---
+
+
+
+---
+
+## 🌐 Live Link
+
+[🔗 https://muscle-map-saloni.vercel.app/](https://muscle-map-saloni.vercel.app/)
+
+---
+Made by me <3!
